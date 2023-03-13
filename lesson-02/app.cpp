@@ -33,6 +33,9 @@ int main()
 	fav.length = 3.14;
 	fav.rating = 10;
 
-	cout << fav.name;
+	cout << fav.name << endl;
+	cout << fav.genre << endl;
+	cout << fav.length << endl;
+	cout << fav.rating << endl;
 
 }
